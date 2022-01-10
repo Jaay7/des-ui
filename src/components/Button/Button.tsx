@@ -1,7 +1,13 @@
-import React, {FC} from "react";
-import {ButtonProps} from "./Button.types";
+import React, {FC, MouseEventHandler} from "react";
 
 import styled from "styled-components";
+export interface ButtonProps {
+  text?: string,
+  primary?: boolean,
+  disabled?: boolean,
+  size?: "small" | "medium" | "large",
+  onClick?: MouseEventHandler<HTMLButtonElement>,
+}
 
 const StyledButton = styled.button<ButtonProps>`
   border: none;
