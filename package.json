@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/Jaay7"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An interactive UI elements for react framework.",
   "main": "dist/cjs/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jaay7/des-ui.git"
+    "url": "git://github.com/Jaay7/des-ui.git"
   },
   "author": "Jaay7",
   "license": "ISC",
