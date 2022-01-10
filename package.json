@@ -1,5 +1,5 @@
 {
-  "name": "@Jaay7/des-ui",
+  "name": "des-ui",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/Jaay7"
   },
