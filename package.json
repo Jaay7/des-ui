@@ -1,7 +1,7 @@
 {
   "name": "des-ui",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Jaay7"
+    "name": "@Jaay7/des-ui"
   },
   "version": "1.0.0",
   "description": "An interactive UI elements for react framework.",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jaay7/react-component-lib.git"
+    "url": "git+https://github.com/Jaay7/des-ui.git"
   },
   "author": "Jaay7",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jaay7/react-component-lib/issues"
+    "url": "https://github.com/Jaay7/des-ui/issues"
   },
-  "homepage": "https://github.com/Jaay7/react-component-lib#readme",
+  "homepage": "https://github.com/Jaay7/des-ui#readme",
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.7",
