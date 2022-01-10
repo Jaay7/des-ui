@@ -1,7 +1,7 @@
 {
   "name": "@Jaay7/des-ui",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/Jaay7"
   },
   "version": "1.0.2",
   "description": "An interactive UI elements for react framework.",
