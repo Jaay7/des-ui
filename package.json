@@ -1,7 +1,7 @@
 {
-  "name": "des-ui",
+  "name": "@Jaay7/des-ui",
   "publishConfig": {
-    "name": "@Jaay7/des-ui"
+    "registry":"https://npm.pkg.github.com/Jaay7"
   },
   "version": "1.0.0",
   "description": "An interactive UI elements for react framework.",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jaay7/des-ui.git"
+    "url": "https://github.com/Jaay7/des-ui.git"
   },
   "author": "Jaay7",
   "license": "ISC",
